@@ -8,7 +8,7 @@ int main() {
     int tabuleiro[TAMANHO][TAMANHO] = {0};
 
     // Coordenadas iniciais dos navios
-    // (linha, coluna) 
+    // (linha, coluna)
     int linhaNavioHorizontal = 2;  
     int colunaNavioHorizontal = 4;
 
